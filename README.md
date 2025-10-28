@@ -112,13 +112,6 @@ For improvements, bug reports, or feature requests, use [issues](https://github.
 
 Connect with [Kanakbaghel](https://github.com/Kanakbaghel) for questions or collaborations.
 
-***
-
-> <h3 style="color: #8B7D8B;">Built with persistence and curiosity</h3>
-
-----------
-
-<p align="center"><em>Crafted with ♥ by <strong>Kanak Baghel</strong> | <a href="https://www.linkedin.com/in/kanakbaghel">LinkedIn</a></em></p>
-
 ---
-
+> _“Data becomes meaningful when it tells a story that leads to better decisions.”_  
+<p align="center"><em>Crafted with ♥ by <strong>Kanak Baghel</strong> |  <a href="https://www.linkedin.com/in/kanakbaghel">LinkedIn</a></em></p>
